@@ -32,5 +32,5 @@ def row_maximisation(input_matrix):
 
 if __name__ == '__main__':
     #words = input().strip()
-    matrix = [[38,40,9],[23,40,25],[45,34,33]]
+    matrix = [[200,105,104],[80,40,25],[45,99,33]]
     print(row_maximisation(matrix))    
